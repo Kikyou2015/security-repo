@@ -5,3 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 and merge
 this is dev content
+
+
+dev branch is used to push to remote.
